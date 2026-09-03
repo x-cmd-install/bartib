@@ -1,11 +1,13 @@
 about:
-  description: A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+  description:
+  |
+    A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
   license: GPL-3.0
   homepage: 
   head: 6b39bc0
   archived: false
   latestVersion: v1.1.0
-  collectedAt: 2026-09-03T05:13:20Z
+  collectedAt: 2026-09-03T22:37:39Z
 timeline:
   created: 2021-02-04
   lastCommit: 2026-03-25
@@ -21,7 +23,7 @@ popularity:
 language:
   Rust: 111552
   Shell: 10500
-totalLine: 122052
+totalBytes: 122052
 recent:
   last30d:
     since: 2026-08-04
