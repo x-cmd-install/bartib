@@ -1,0 +1,112 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: bartib
+  binname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: 1.1.0-r0
+  status: newest
+  summary: simple timetracker for the command line
+  maintainers:
+    - guddaff@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: bartib
+  binname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: newest
+  summary: A simple timetracker for the command line
+  maintainers:
+    - dinamyc@aur
+  licenses:
+    - GPL3
+- repo: homebrew
+  srcname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Simple timetracker for the command-line
+- repo: macports
+  srcname: office/bartib
+  binname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: A simple timetracker for the command line
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - GPL-3
+  categories:
+    - office
+- repo: nix_stable_24_05
+  srcname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: A simple timetracker for the command line
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Simple timetracker for the command line
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Simple timetracker for the command line
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Simple timetracker for the command line
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Simple timetracker for the command line
+  maintainers:
+    - mrjarviscraft+nix@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: bartib
+  visiblename: bartib
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: Simple timetracker for the command line
+  maintainers:
+    - mrjarviscraft+nix@gmail.com
+  licenses:
+    - GPL-3.0-or-later
