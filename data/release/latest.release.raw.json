@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 849436,
       "digest": null,
-      "download_count": 2193,
+      "download_count": 2202,
       "created_at": "2024-02-29T09:59:08Z",
       "updated_at": "2024-02-29T09:59:09Z",
       "browser_download_url": "https://github.com/nikolassv/bartib/releases/download/v1.1.0/bartib-x86_64-unknown-linux-gnu.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 114420,
       "digest": null,
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2024-02-29T09:59:07Z",
       "updated_at": "2024-02-29T09:59:07Z",
       "browser_download_url": "https://github.com/nikolassv/bartib/releases/download/v1.1.0/source.tar.gz"
